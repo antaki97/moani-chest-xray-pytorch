@@ -9,19 +9,19 @@ This project includes a set of pre-trained and custom-trained models implemented
 
 **Key Features**
 
-MONAI-based architectures: Utilizes MONAI's powerful features for building and training models for medical imaging tasks.
+* MONAI-based architectures: Utilizes MONAI's powerful features for building and training models for medical imaging tasks.
 
-Custom training pipelines: Includes code for training models on custom medical datasets.
+* Custom training pipelines: Includes code for training models on custom medical datasets.
 
-Pre-trained models: If available, pre-trained models to jump-start your own projects.
+* Pre-trained models: If available, pre-trained models to jump-start your own projects.
 
-Evaluation scripts: Provides tools for model evaluation on different datasets.
+* Evaluation scripts: Provides tools for model evaluation on different datasets.
 
-Visualization tools: Built-in methods to visualize model predictions and output. 
+* Visualization tools: Built-in methods to visualize model predictions and output. 
 
-git clone [https://github.com/your-username/monai-pytorch-models.git](https://github.com/antaki97/moani-chest-xray-pytorch.git)
+`git clone [https://github.com/your-username/monai-pytorch-models.git](https://github.com/antaki97/moani-chest-xray-pytorch.git)
 cd monai-pytorch-models
-pip install -r requirements.txt
+pip install -r requirements.txt`
 
 **Requirements**
 
